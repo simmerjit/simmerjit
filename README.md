@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ Simmerjit Singh Sethi | BCA Student & Full-Stack Developer<br><br>Hi! I'm Simmerjit Singh Sethi <br>I'm a BCA student (2025–2028) and a self-taught full-stack MERN developer who loves building real-world projects like real-estate apps with maps, virtual tours, and powerful backends.<br>I also study AI/ML, DSA.
+⭐ Simmerjit Singh Sethi | BCA Student & Full-Stack Developer<br><br>Hi! I'm Simmerjit Singh Sethi <br>I'm a BCA student (2025–2028) and a self-taught full-stack MERN developer who loves building real-world projects like real-estate apps with maps, virtual tours, and powerful backends.<br>I also study AI/ML, DSA. 
 
 
 ## 🌐 Socials:
